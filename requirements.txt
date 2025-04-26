@@ -1,0 +1,5 @@
+flask 
+playwright
+nest_asyncio
+pydantic_ai
+pydantic
